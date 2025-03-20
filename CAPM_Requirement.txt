@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+cvxopt
+pingouin
+scipy
