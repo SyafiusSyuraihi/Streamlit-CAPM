@@ -73,10 +73,10 @@ if selected == "Home":
         1. **📥 Pilih Saham**:  
             - Masukkan kode saham atau **unggah file CSV** yang berisi data saham.  
         2. **📊 Analisis Return Saham**:  
-            - Lakukan analisis **return** saham-saham yang telah dipilih, mulai dari nilai return, plot return, dan analisis statistik deskriptif return.  
+            - Lakukan analisis **return** saham-saham yang telah dipilih, mulai dari nilai return, plot return, analisis statistik deskriptif return, dan normalitas return.  
         3. **✅ Seleksi Saham**:  
             - Pilih saham berdasarkan **rata-rata return** dan **korelasi antar saham**. Atau masukkan jumlah saham yang akan dijadikan portofolio.  
-        4. **⚙️ Mean-Semivariance QP Optimization**:  
+        4. **⚙️ Bobot Portofolio CAPM**:  
             - Pada Tab ini, lakukan perhitungan bobot portofolio optimal berdasarkan hasil rekomendasi sistem, atau pilih saham lain sesuai dengan preferensi investor dengan melakukan input kode saham.  
         5. **📉 Value at Risk (VaR)**:  
             - Hitung potensi **kerugian maksimum** portofolio menggunakan metode **Historical Simulation**.  
