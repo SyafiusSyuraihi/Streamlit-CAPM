@@ -5,9 +5,6 @@ import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
 import seaborn as sns
-import cvxopt as opt 
-from cvxopt import matrix, solvers
-from pingouin import multivariate_normality
 from scipy.stats import kstest
 
 #buat jadi wide
